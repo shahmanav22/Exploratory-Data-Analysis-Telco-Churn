@@ -29,3 +29,7 @@ Perform exploratory data analysis to understand customer behavior, identify chur
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Auhtor
+
+Manav Shah
